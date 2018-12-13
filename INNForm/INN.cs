@@ -91,11 +91,23 @@ namespace INNForm
 
         }
 
+         
+
         private void INN_Load(object sender, EventArgs e)
         {
 
         }
 
-        
+        public void dotestModal()
+        {
+          
+             
+
+
+
+
+        }
+
+
     }
 }
