@@ -98,7 +98,7 @@
     <Content Include="LogINNForm.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Interface\Interface\Interface.csproj">
+    <ProjectReference Include="..\Interface\Interface.csproj">
       <Project>{0690f2bc-cfd6-4005-91b8-a64e9d2f44a3}</Project>
       <Name>Interface</Name>
     </ProjectReference>
